@@ -1,0 +1,85 @@
+body {
+	text-align: center;
+	background-color: #000;
+  
+}
+
+
+
+
+
+
+h1 {
+	font-size: 6rem;
+	color: yellow;
+	font-family: Georgia, serif;
+	text-shadow: 3px 0 #fff;
+}
+
+
+
+
+
+.b {
+	background-image: url("b.jpg");
+}
+
+.c {
+	background-image: url("c.jpg");
+}
+
+.d {
+	background-image: url("d.jpg");
+}
+
+.e {
+	background-image: url("e1.jpeg");
+}
+
+.f {
+	background-image: url("f1.jpg");
+}
+
+.s {
+	background-image: url("s1.jpg");
+}
+
+.r {
+	background-image: url("r.jpg");
+}
+
+.t {
+	background-image: url("t1.jpg");
+}
+
+.q {
+	background-image: url("q1.jpg");
+}
+
+.all {
+	margin: 3.5% auto;
+}
+
+.animation {
+	box-shadow: 0 3px 4px 0 #feafee;
+	opacity: 0.75;
+}
+
+.button {
+	outline: none;
+	border: 10px solid #000;
+	font-size: 6rem;
+	font-family: Georgia, serif;
+	line-height: 1;
+	font-weight: 900;
+	color: #000;
+	text-shadow: 3px 0 #DBEDF3;
+	border-radius: 5px;
+	display: inline-block;
+	width: 170px;
+	height: 170px;
+	text-align: center;
+	margin: 10px;
+	background-color: white;
+}
+
